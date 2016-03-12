@@ -1,0 +1,6 @@
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.exe.config
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.exe
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.pdb
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.exe
+E:\GIT\CSharp200\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.pdb
